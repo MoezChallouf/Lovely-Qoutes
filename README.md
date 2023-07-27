@@ -1,3 +1,6 @@
+![image](https://github.com/MoezChallouf/Lovely-Qoutes/assets/72388621/05535487-bbfe-4740-b7b3-8cf2a0a7d6a4)
+
+
 <p align="center"><a href="https://laravel.com" target="_blank"><img src="https://raw.githubusercontent.com/laravel/art/master/logo-lockup/5%20SVG/2%20CMYK/1%20Full%20Color/laravel-logolockup-cmyk-red.svg" width="400"></a></p>
 
 <p align="center">
