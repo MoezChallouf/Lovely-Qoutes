@@ -1,4 +1,4 @@
-<p>WIP</p>
+
 ![image](https://github.com/MoezChallouf/Lovely-Qoutes/assets/72388621/05535487-bbfe-4740-b7b3-8cf2a0a7d6a4)
 
 
